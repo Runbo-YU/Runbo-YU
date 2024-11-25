@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Runbo-YU
+- 👋 Hi, I’m YU Runbo
 - 👀 I’m interested in trustworthy maching learning
 - 🌱 I’m currently learning Differential privacy on ML against MIA 
 - 📫 How to reach me: rbyreece@gmail.com
